@@ -1,0 +1,12 @@
+/* Custom styles for Green Earth */
+body {
+  font-family: 'Inter', Arial, sans-serif;
+}
+/* Modal scroll fix */
+#modal {
+  overflow-y: auto;
+}
+/* Spinner style (if needed) */
+#spinner .animate-spin {
+  border-color: #047857;
+}
